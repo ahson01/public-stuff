@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/02 - Software/Trading Bot.md",
-                "mode": "preview",
+                "file": "journal/18-03-2025.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Trading Bot"
+              "title": "18-03-2025"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/02 - Software/Trading Bot.md",
+                "file": "journal/18-03-2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Trading Bot"
+              "title": "Backlinks for 18-03-2025"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/02 - Software/Trading Bot.md",
+                "file": "journal/18-03-2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Trading Bot"
+              "title": "Outgoing links from 18-03-2025"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/02 - Software/Trading Bot.md",
+                "file": "journal/18-03-2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Trading Bot"
+              "title": "Outline of 18-03-2025"
             }
           },
           {
@@ -181,12 +181,15 @@
   },
   "active": "6f75b0d4df427901",
   "lastOpenFiles": [
+    "2025-03-18.md",
+    "journal/18-03-2025.md",
+    "notes/03 - Cybersecurity/Careers in cybersecurity.md",
+    "journal",
+    "notes/02 - Software/Trading Bot.md",
     "notes/02 - Software/Download Websites.md",
     "notes/02 - Software/Django on Vercel.md",
     "notes/01 - Life/System of remembrance.md",
     "notes/01 - Life/Optimized Polyphasic Sleep.md",
-    "notes/03 - Cybersecurity/Careers in cybersecurity.md",
-    "notes/02 - Software/Trading Bot.md",
     "notes/life/optimized_polymorphic_sleep.md",
     "notes/software/ethereum_trading.md",
     "notes/software/django_on_vercel.md",
