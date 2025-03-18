@@ -1,7 +1,7 @@
 ---
-title: "Django on Vercel"
+title: "Django on vercel"
 date: "2025-03-18"
-tags: ["django", "python", "vercel"]
+tags: ["python", "django", "vercel"]
 ---
 
 # 🚀 Deploying Your Django Project to Vercel

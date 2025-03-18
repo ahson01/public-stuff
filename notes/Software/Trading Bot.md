@@ -1,18 +1,19 @@
 ---
 title: "Crypto Trading Bot"
 date: "2025-03-18"
-tags: ["ethereum", "crypto", "trading"]
+tags: ["crypto", "trading", "bot"]
 ---
 
+#software
 **Ethereum Trading Bot: 'Remix' Sniping Ethereum BOT (Optimized code)**
 
 ## 📈 Estimated Profits
 | **Investment Range (ETH)** | **Profits per 24 Hours** |
-|----------------------------|---------------------------|
-| 0.5 ETH - 1 ETH            | Up to 5%                 |
-| 1 ETH - 3 ETH              | Up to 10%                |
-| 3 ETH - 6 ETH              | 20%                      |
-| 6 ETH - 10 ETH             | 35%                      |
+|----------------------------|-------------------------|
+| 0.5 ETH - 1 ETH            | Up to 5%                |
+| 1 ETH - 3 ETH              | Up to 10%               |
+| 3 ETH - 6 ETH              | 20%                     |
+| 6 ETH - 10 ETH             | 35%                     |
 
 ---
 
