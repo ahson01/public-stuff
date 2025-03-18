@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Software/Trading Bot.md",
+                "file": "notes/02 - Software/Trading Bot.md",
                 "mode": "preview",
                 "source": true
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Software/Trading Bot.md",
+                "file": "notes/02 - Software/Trading Bot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Software/Trading Bot.md",
+                "file": "notes/02 - Software/Trading Bot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Software/Trading Bot.md",
+                "file": "notes/02 - Software/Trading Bot.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -150,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of Trading Bot"
             }
+          },
+          {
+            "id": "43563ca70229c735",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,20 +175,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "6f75b0d4df427901",
   "lastOpenFiles": [
-    "notes/Software/Download Websites.md",
-    "notes/Software/Django on Vercel.md",
-    "notes/Life/System of remembrance.md",
-    "notes/Life/Optimized Polyphasic Sleep.md",
-    "notes/Cybersecurity/Careers in cybersecurity.md",
-    "notes/Software/Trading Bot.md",
+    "notes/02 - Software/Download Websites.md",
+    "notes/02 - Software/Django on Vercel.md",
+    "notes/01 - Life/System of remembrance.md",
+    "notes/01 - Life/Optimized Polyphasic Sleep.md",
+    "notes/03 - Cybersecurity/Careers in cybersecurity.md",
+    "notes/02 - Software/Trading Bot.md",
     "notes/life/optimized_polymorphic_sleep.md",
     "notes/software/ethereum_trading.md",
     "notes/software/django_on_vercel.md",
-    "notes/Life"
+    "notes/01 - Life"
   ]
 }
