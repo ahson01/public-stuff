@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/18-03-2025.md",
+                "file": "journal/19-03-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18-03-2025"
+              "title": "19-03-2025"
             }
           }
         ]
@@ -181,10 +181,11 @@
   },
   "active": "4c401bf8604dfb4c",
   "lastOpenFiles": [
+    "journal/18-03-2025.md",
+    "journal/19-03-2025.md",
     "notes/02 - Software/Trading Bot.md",
     "notes/02 - Software/Download Websites.md",
     "notes/02 - Software/Django on Vercel.md",
-    "journal/18-03-2025.md",
     "Untitled.canvas",
     "2025-03-18.md",
     "notes/03 - Cybersecurity/Careers in cybersecurity.md",
