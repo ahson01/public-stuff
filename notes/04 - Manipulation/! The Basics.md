@@ -86,4 +86,3 @@ The first step is identifying the best targets for manipulation—people with vu
 |**Fear of missing out (FOMO)**|Anxiety about losing opportunities, easily exploited by creating artificial urgency or exclusivity.|
 
 ---
-
