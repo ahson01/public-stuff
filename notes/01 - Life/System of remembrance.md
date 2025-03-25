@@ -29,9 +29,9 @@ I will use a pre-memorized set of keywords linked to numbers to remember informa
     - 1 = Gun
     - 2 = Shoe
     - 3 = Tree
-- **Application:**
     
-    - If the **Magna Carta (1215)** is the second key event, I will visualize a shoe (2) stepping on a scroll to create a strong mental association.
+- **Application:**
+- For example, if the **First Battle of Panipat (1526)** is the second event to be remembered, and the peg word for the number 2 is **shoe**, I would visualize a large **shoe** stepping onto a battlefield where the First Battle of Panipat is taking place. This vivid mental image helps create a strong connection between the number 2 and the historical event, making it easier to recall in the correct order.
 
 ---
 
