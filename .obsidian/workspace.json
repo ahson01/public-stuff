@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f84c6c27485b95ef",
+        "id": "5ae977cf83705a3b",
         "type": "tabs",
         "children": [
           {
-            "id": "c6b59b6f74062262",
+            "id": "ca5784694fe01f67",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "notes/04 - Manipulation/! The Basics.md",
-                "bFile": "notes/04 - Manipulation/! The Basics.md",
-                "aRef": ""
+                "file": "notes/04 - Psychology/Visual-spatial memory.md",
+                "mode": "preview",
+                "source": true
               },
-              "icon": "diff",
-              "title": "Diff: ! The Basics"
+              "icon": "lucide-file",
+              "title": "Visual-spatial memory"
             }
           }
         ]
@@ -179,9 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6b59b6f74062262",
+  "active": "ca5784694fe01f67",
   "lastOpenFiles": [
-    "notes/04 - Manipulation/! The Basics.md",
+    "notes/04 - Psychology/! Influence and control.md",
+    "notes/04 - Psychology/Visual-spatial memory.md",
     "notes/03 - Cybersecurity/Careers in cybersecurity.md",
     "notes/01 - Life/Optimized Polyphasic Sleep.md",
     "notes/01 - Life/System of remembrance.md",
