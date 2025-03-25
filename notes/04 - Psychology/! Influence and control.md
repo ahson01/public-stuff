@@ -1,7 +1,10 @@
 ---
-title: "! The Basics"
-date: "2025-03-19"
-tags: ["manipulation", "basics", "guide"]
+title: "! Influence and control"
+date: 2025-03-19
+tags:
+  - manipulation
+  - basics
+  - guide
 ---
 
 ---
