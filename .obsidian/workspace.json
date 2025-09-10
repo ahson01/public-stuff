@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/01 - Life/Optimized Polyphasic Sleep.md",
+                "file": "notes/04 - ANRT/ANRT.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Optimized Polyphasic Sleep"
+              "title": "ANRT"
             }
           }
         ]
@@ -183,8 +183,8 @@
   "active": "f7976fbe309dce91",
   "lastOpenFiles": [
     "notes/03 - Cybersecurity/WPS Attack.md",
-    "notes/02 - Software/Django on Vercel.md",
     "notes/01 - Life/Optimized Polyphasic Sleep.md",
+    "notes/02 - Software/Django on Vercel.md",
     "notes/01 - Life/System of remembrance.md",
     "notes/02 - Software/Download Websites.md",
     "notes/02 - Software/Trading Bot.md",
