@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/04 - ANRT/ANRT.md",
+                "file": "notes/04 - ANRT/ANRT - Documentation.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ANRT"
+              "title": "ANRT - Documentation"
             }
           }
         ]
@@ -182,6 +182,9 @@
   },
   "active": "f7976fbe309dce91",
   "lastOpenFiles": [
+    "archived/04-04-2025.md",
+    "notes/04 - ANRT/ANRT - Documentation.md",
+    "archived",
     "notes/03 - Cybersecurity/WPS Attack.md",
     "notes/01 - Life/Optimized Polyphasic Sleep.md",
     "notes/02 - Software/Django on Vercel.md",
@@ -190,15 +193,13 @@
     "notes/02 - Software/Trading Bot.md",
     "notes/03 - Cybersecurity/Careers in cybersecurity.md",
     "notes/04 - Psychology/Visual-spatial memory.md",
-    "notes/04 - ANRT/ANRT.md",
-    "journal/24-4-2025.md",
+    "archived/24-4-2025.md",
     "notes/04 - ANRT",
     "notes/Untitled.md",
-    "journal/04-04-2025.md",
     "notes/04 - Psychology/Influence and control.md",
-    "journal/19-03-2025.md",
+    "archived/19-03-2025.md",
     "Untitled.canvas",
-    "journal/18-03-2025.md",
+    "archived/18-03-2025.md",
     "2025-03-18.md",
     "journal",
     "notes/life/optimized_polymorphic_sleep.md",
