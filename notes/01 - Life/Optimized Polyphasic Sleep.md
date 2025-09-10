@@ -6,6 +6,8 @@ tags: ["sleep", "polyphasic", "resource"]
 
 ---
 
+# WARNING : THIS IS NOT MEDICAL ADVICE, AND I'M NOT RESPONSIBLE FOR WHATEVER, YOU CHOSE TO DO WITH THIS INFORMATION.
+
 #### Core Components for Success:
 - **Core Sleep**: Maximize restorative efficiency with 4 hours.
 - **Naps**: Limit to 1–2 brief, refreshing naps.
