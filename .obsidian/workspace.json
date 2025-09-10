@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/03 - Cybersecurity/WPS Attack.md",
+                "file": "notes/01 - Life/Optimized Polyphasic Sleep.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "WPS Attack"
+              "title": "Optimized Polyphasic Sleep"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "f7976fbe309dce91",
   "lastOpenFiles": [
-    "notes/02 - Software/Django on Vercel.md",
     "notes/03 - Cybersecurity/WPS Attack.md",
+    "notes/02 - Software/Django on Vercel.md",
     "notes/01 - Life/Optimized Polyphasic Sleep.md",
     "notes/01 - Life/System of remembrance.md",
     "notes/02 - Software/Download Websites.md",

@@ -63,14 +63,3 @@ tags: ["sleep", "polyphasic", "resource"]
 2. **Timing**: Consume ~30 minutes before energy dips for peak effectiveness.
 3. **Evening Avoidance**: No caffeine after 2:00 PM to safeguard core sleep.
 ---
-
-### Additional Adaptation Strategies:
-1. **Optimize Sleep Environment**:
-   - Use blackout curtains, white noise, and maintain a consistent routine.
-   - Avoid screens and bright lights 1 hour before core sleep.
-2. **Gradual Sleep Reduction**:
-   - Start with 6 hours and decrease by 30 minutes every 3–4 days.
-3. **Combat Fatigue Naturally**:
-   - Incorporate light exercise, hydration, and outdoor walks during energy dips.
-   - Avoid reliance on naps beyond scheduled times.
----
