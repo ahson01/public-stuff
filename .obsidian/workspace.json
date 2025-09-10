@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/04 - Psychology/Visual-spatial memory.md",
-                "mode": "source",
-                "source": false
+                "file": "notes/05 - ANRT/ANRT.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Visual-spatial memory"
+              "title": "ANRT"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -181,11 +182,15 @@
   },
   "active": "f7976fbe309dce91",
   "lastOpenFiles": [
-    "journal/04-04-2025.md",
     "notes/04 - Psychology/Visual-spatial memory.md",
+    "notes/05 - ANRT/ANRT.md",
+    "journal/24-4-2025.md",
+    "notes/05 - ANRT",
+    "notes/Untitled.md",
+    "notes/01 - Life/System of remembrance.md",
+    "journal/04-04-2025.md",
     "notes/04 - Psychology/Influence and control.md",
     "notes/01 - Life/Optimized Polyphasic Sleep.md",
-    "notes/01 - Life/System of remembrance.md",
     "notes/02 - Software/Django on Vercel.md",
     "notes/02 - Software/Trading Bot.md",
     "notes/02 - Software/Download Websites.md",
