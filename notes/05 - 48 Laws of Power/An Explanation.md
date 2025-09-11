@@ -1,10 +1,12 @@
 ---
 title: An Explanation
-date: 2025-09-10
+date: 2025-09-11
 tags:
   - brain
   - psychology
 ---
+
+
 _**The 48 Laws of Power**_ (1999) is a [self-help book](https://en.wikipedia.org/wiki/Self-help_book "Self-help book") by American author [Robert Greene](https://en.wikipedia.org/wiki/Robert_Greene_\(American_author\) "Robert Greene (American author)"). The book is a _New York Times_ bestseller, selling over 1.2 million copies in the United States.
 
 ## The 48 laws are : 
