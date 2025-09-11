@@ -1,12 +1,8 @@
 ---
-title: "An Explanation"
+title: "Laws"
 date: "2025-09-11"
 tags: ["brain", "psychology"]
 ---
-
-**The 48 Laws of Power** (1999) is a [self-help book](https://en.wikipedia.org/wiki/Self-help_book "Self-help book") by American author [Robert Greene](https://en.wikipedia.org/wiki/Robert_Greene_\(American_author\) "Robert Greene (American author)"). The book is a _New York Times_ bestseller, selling over 1.2 million copies in the United States.
-
-## The 48 laws are : 
 
 # 48 Laws of Power
 
@@ -344,5 +340,3 @@ The moment of victory is often the moment of greatest peril. In the heat of vict
 By taking a shape, by having a visible plan, you open yourself to attack. Instead of taking a form for your enemy to grasp, keep yourself adaptable and on the move. Accept the fact that nothing is certain and no law is fixed. The best way to protect yourself is to be as fluid and formless as water; never bet on stability or lasting order. Everything changes.
 
 ---
-
-# So, these all seem good. but... What do I do with them?

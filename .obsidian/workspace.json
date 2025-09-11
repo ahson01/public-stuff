@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/04 - ANRT/ANRT - Documentation.md",
+                "file": "notes/05 - 48 Laws of Power/Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ANRT - Documentation"
+              "title": "Introduction"
             }
           }
         ]
@@ -180,14 +180,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7976fbe309dce91",
+  "active": "6f75b0d4df427901",
   "lastOpenFiles": [
-    "notes/05 - 48 Laws of Power/An Explanation.md",
-    "notes/04 - ANRT/ANRT - Documentation.md",
+    "notes/05 - 48 Laws of Power/Laws.md",
+    "notes/05 - 48 Laws of Power/Introduction.md",
     "notes/03 - Cybersecurity/WPS Attack.md",
+    "notes/04 - ANRT/ANRT - Documentation.md",
+    "notes/01 - Life/Optimized Polyphasic Sleep.md",
     "notes/02 - Software/Download Websites.md",
     "notes/01 - Life/System of remembrance.md",
-    "notes/01 - Life/Optimized Polyphasic Sleep.md",
     "archived/24-4-2025.md",
     "archived/19-03-2025.md",
     "archived/18-03-2025.md",
