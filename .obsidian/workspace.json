@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#bash",
+                "query": "tag:48 laws of power",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -180,15 +180,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f75b0d4df427901",
+  "active": "f7976fbe309dce91",
   "lastOpenFiles": [
-    "notes/05 - 48 Laws of Power/Laws.md",
+    "notes/05 - 48 Laws of Power/Scenarios/Sharing.md",
     "notes/05 - 48 Laws of Power/Introduction.md",
-    "notes/03 - Cybersecurity/WPS Attack.md",
+    "notes/05 - 48 Laws of Power/Laws.md",
+    "notes/05 - 48 Laws of Power/Scenarios",
     "notes/04 - ANRT/ANRT - Documentation.md",
+    "notes/03 - Cybersecurity/WPS Attack.md",
+    "notes/01 - Life/System of remembrance.md",
     "notes/01 - Life/Optimized Polyphasic Sleep.md",
     "notes/02 - Software/Download Websites.md",
-    "notes/01 - Life/System of remembrance.md",
     "archived/24-4-2025.md",
     "archived/19-03-2025.md",
     "archived/18-03-2025.md",

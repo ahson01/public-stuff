@@ -1,7 +1,7 @@
 ---
 title: "Laws"
 date: "2025-09-11"
-tags: ["brain", "psychology"]
+tags: ["brain", "psychology", "48lawsofpower"]
 ---
 
 # 48 Laws of Power

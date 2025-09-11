@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "-tag:#archived  ",
   "showTags": true,
   "showAttachments": false,
@@ -25,6 +25,6 @@
   "repelStrength": 15.0280950910775,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7733374428598209,
+  "scale": 0.5980508005289665,
   "close": false
 }
