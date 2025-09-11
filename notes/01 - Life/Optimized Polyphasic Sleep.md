@@ -1,7 +1,9 @@
 ---
-title: "Optimized Polyphasic Sleep"
-date: "2025-03-18"
-tags: ["sleep", "polyphasic", "resource"]
+title: Optimized Polyphasic Sleep
+date: 2025-03-18
+tags:
+  - sleep
+  - polyphasic
 ---
 
 ---

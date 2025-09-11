@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/04 - ANRT/ANRT - Documentation.md",
+                "file": "notes/05 - 48 Laws of Power/48 Laws of Power - An Explanation.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "ANRT - Documentation"
+              "title": "48 Laws of Power - An Explanation"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#bash",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,24 +182,26 @@
   },
   "active": "f7976fbe309dce91",
   "lastOpenFiles": [
-    "archived/04-04-2025.md",
     "notes/04 - ANRT/ANRT - Documentation.md",
-    "archived",
-    "notes/03 - Cybersecurity/WPS Attack.md",
-    "notes/01 - Life/Optimized Polyphasic Sleep.md",
-    "notes/02 - Software/Django on Vercel.md",
-    "notes/01 - Life/System of remembrance.md",
+    "notes/05 - 48 Laws of Power/48 Laws of Power - An Explanation.md",
     "notes/02 - Software/Download Websites.md",
+    "notes/01 - Life/System of remembrance.md",
+    "notes/01 - Life/Optimized Polyphasic Sleep.md",
+    "archived/24-4-2025.md",
+    "archived/19-03-2025.md",
+    "archived/18-03-2025.md",
+    "archived/04-04-2025.md",
+    "notes/03 - Cybersecurity/WPS Attack.md",
+    "notes/05 - 48 Laws of Power",
+    "archived",
+    "notes/02 - Software/Django on Vercel.md",
     "notes/02 - Software/Trading Bot.md",
     "notes/03 - Cybersecurity/Careers in cybersecurity.md",
     "notes/04 - Psychology/Visual-spatial memory.md",
-    "archived/24-4-2025.md",
     "notes/04 - ANRT",
     "notes/Untitled.md",
     "notes/04 - Psychology/Influence and control.md",
-    "archived/19-03-2025.md",
     "Untitled.canvas",
-    "archived/18-03-2025.md",
     "2025-03-18.md",
     "journal",
     "notes/life/optimized_polymorphic_sleep.md",

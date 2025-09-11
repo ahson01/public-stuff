@@ -1,7 +1,8 @@
 ---
-title: "Download Websites"
-date: "2025-03-18"
-tags: ["wget", "web", "bash"]
+title: Download Websites
+date: 2025-03-18
+tags:
+  - software
 ---
 
 # 🌐 Downloading Files from a Website with `wget`

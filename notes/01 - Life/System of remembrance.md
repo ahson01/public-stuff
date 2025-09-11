@@ -1,7 +1,9 @@
 ---
-title: "System of remembrance"
-date: "2025-03-18"
-tags: ["school", "resources", "meta-learning"]
+title: System of remembrance
+date: 2025-03-18
+tags:
+  - school
+  - meta-learning
 ---
 
 This document outlines my approach to improving memory retention, particularly for factual information where understanding is either difficult or unnecessary. While this method reduces the need for repetitive practice, it does not eliminate it entirely. By leveraging my Obsidian notes, I will document the results of these techniques to enhance memory retention and ensure effective information intake. The ultimate goal is to make my studies as efficient and effortless as possible.
