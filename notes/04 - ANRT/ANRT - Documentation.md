@@ -1,9 +1,7 @@
 ---
-title: ANRT- Documentation
-date: 2025-09-10
-tags:
-  - brain
-  - psychology
+title: "ANRT - Documentation"
+date: "2025-09-10"
+tags: ["brain", "psychology"]
 ---
 
 # Definition

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/05 - 48 Laws of Power/An Explanation.md",
+                "file": "notes/04 - ANRT/ANRT - Documentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "An Explanation"
+              "title": "ANRT - Documentation"
             }
           }
         ]
@@ -182,9 +182,9 @@
   },
   "active": "f7976fbe309dce91",
   "lastOpenFiles": [
-    "notes/03 - Cybersecurity/WPS Attack.md",
     "notes/05 - 48 Laws of Power/An Explanation.md",
     "notes/04 - ANRT/ANRT - Documentation.md",
+    "notes/03 - Cybersecurity/WPS Attack.md",
     "notes/02 - Software/Download Websites.md",
     "notes/01 - Life/System of remembrance.md",
     "notes/01 - Life/Optimized Polyphasic Sleep.md",
